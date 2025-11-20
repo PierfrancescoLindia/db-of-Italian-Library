@@ -100,8 +100,12 @@ You can open the PDF to inspect the conceptual design, which includes entities s
 - **Author** and **Genre**;
 - **Loyalty-card customer** and **Non-member customer**;
 - **Contracts**, **Purchases** and **References** between employees and customers.
+### Conceptual Design (E–R Model)
 
-[View the E–R schema (PDF)](Schema%20E-R.pdf)
+The conceptual schema of the database is summarised in the following E–R diagram:
+
+![E–R schema of the Italian Library database](figs/fig1_ER.png)
+
 
 The E–R diagram specifies:
 
