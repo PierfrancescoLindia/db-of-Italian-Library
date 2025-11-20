@@ -110,6 +110,13 @@ The E–R diagram specifies:
 - **relationships** between entities (one-to-one, one-to-many, many-to-many);
 - **cardinalities** and **participation constraints**.
 
+- ## Conceptual Design (E–R Model)
+
+The conceptual schema of the database is summarised in the following E–R diagram:
+
+![E–R schema of the Italian Library database](figs/fig1%20ER.png)
+
+
 ---
 
 ## 4. Relational Model
